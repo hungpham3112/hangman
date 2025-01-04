@@ -1,7 +1,13 @@
-# hangman_bin
+# hangman
 
 ## For Linux
 
 ```
-wget https://raw.githubusercontent.com/hungpham3112/hangman_bin/main/game && sudo chmod +x ./game && ./game
+wget https://raw.githubusercontent.com/hungpham3112/hangman/main/game && sudo chmod +x ./game && ./game
+```
+
+## For Windows
+
+```
+
 ```
