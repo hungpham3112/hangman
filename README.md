@@ -9,5 +9,6 @@ wget https://raw.githubusercontent.com/hungpham3112/hangman/main/bin/game && sud
 ## For Windows
 
 ```
+curl -O https://raw.githubusercontent.com/hungpham3112/hangman/main/bin/game && ./game.exe
 
 ```
